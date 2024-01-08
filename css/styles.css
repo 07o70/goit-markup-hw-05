@@ -127,7 +127,7 @@ ul {
 
 .link {
   text-decoration: none;
-  color: var(--NAVY-BLUE);
+  color: #404bbf;
 }
 
 .link:hover,
@@ -681,4 +681,8 @@ footer {
 }
 .svg-modal-window {
   transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+.svg-modal-window:hover,
+.svg-modal-window:focus{
+  
 }
