@@ -60,6 +60,7 @@ ul {
 .display-flex {
   display: flex;
   align-items: center;
+  margin-inline: auto;
   gap: 40px;
 }
 /* visual hiden */
